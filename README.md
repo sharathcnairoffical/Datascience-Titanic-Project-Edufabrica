@@ -1,3 +1,3 @@
-# Datascience-Titanic-and-IRIS-Project-Edufabrica
+# Datascience-Titanic-and-IRIS-Project-Edufabrica_Internship
 
 
